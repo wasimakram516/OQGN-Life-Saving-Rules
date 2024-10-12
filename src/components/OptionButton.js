@@ -5,19 +5,19 @@ function OptionButton({ option, handleAnswer, optionLetter }) {
   // Define the color styles based on the option letters
   const optionStyles = {
     A: {
-      backgroundColor: "#6A0DAD", // Purple for A
+      backgroundColor: "#87B353",
       color: "#FFFFFF",
     },
     B: {
-      backgroundColor: "#FFCC00", // Yellow for B
+      backgroundColor: "#F58220",
       color: "#FFFFFF",
     },
     C: {
-      backgroundColor: "#C71585", // Pink for C
+      backgroundColor: "#394E29",
       color: "#FFFFFF",
     },
     D: {
-      backgroundColor: "#FF8C00", // Orange for D
+      backgroundColor: "#FAC090",
       color: "#FFFFFF",
     },
   };

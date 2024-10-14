@@ -107,6 +107,9 @@ function Quiz({ endGame, incrementScore, quizData, currentQuestionIndex, restart
       >
         {currentQuestionIndex + 1}
       </Typography>
+      <Typography variant="h3" gutterBottom sx={{ fontWeight: "bold" }}>
+      {currentQuestion.heading}
+      </Typography>
 
       {/* Display Question */}
       <Typography variant="h5" gutterBottom sx={{ fontWeight: "bold" }}>

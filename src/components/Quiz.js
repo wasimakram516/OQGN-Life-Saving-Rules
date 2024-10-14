@@ -112,7 +112,7 @@ function Quiz({ endGame, incrementScore, quizData, currentQuestionIndex, restart
       </Typography>
 
       {/* Display Question */}
-      <Typography variant="h5" gutterBottom >
+      <Typography variant="h5" gutterBottom sx={{marginBottom:"30px"}} >
         {currentQuestion.question}
       </Typography>
 

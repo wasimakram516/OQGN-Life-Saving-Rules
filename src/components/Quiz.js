@@ -103,16 +103,16 @@ function Quiz({ endGame, incrementScore, quizData, currentQuestionIndex, restart
       <Typography
         variant="h2"
         gutterBottom
-        sx={{ marginTop: "100px", fontWeight: "bold" }}
+        sx={{ marginTop: "85px", fontWeight: "bold" }}
       >
         {currentQuestionIndex + 1}
       </Typography>
-      <Typography variant="h3" gutterBottom sx={{ fontWeight: "bold" }}>
+      <Typography variant="h4" gutterBottom sx={{ fontWeight: "bold" }}>
       {currentQuestion.heading}
       </Typography>
 
       {/* Display Question */}
-      <Typography variant="h5" gutterBottom sx={{ fontWeight: "bold" }}>
+      <Typography variant="h5" gutterBottom >
         {currentQuestion.question}
       </Typography>
 

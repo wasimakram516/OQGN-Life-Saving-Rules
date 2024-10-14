@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OQGN-LSR/static/css/main.312fb1d0.css",
-    "main.js": "/OQGN-LSR/static/js/main.1f2c6abe.js",
+    "main.js": "/OQGN-LSR/static/js/main.8e467457.js",
     "static/js/453.ceb1571c.chunk.js": "/OQGN-LSR/static/js/453.ceb1571c.chunk.js",
     "static/media/CorrectAnswer.webp": "/OQGN-LSR/static/media/CorrectAnswer.6111eaba3ac227ab8f40.webp",
     "static/media/Background.webp": "/OQGN-LSR/static/media/Background.ed4618de208eb9cbce1d.webp",
@@ -17,11 +17,11 @@
     "static/media/IncorrectAnswerD.webp": "/OQGN-LSR/static/media/IncorrectAnswerD.0be5790cebbdc04a47cf.webp",
     "index.html": "/OQGN-LSR/index.html",
     "main.312fb1d0.css.map": "/OQGN-LSR/static/css/main.312fb1d0.css.map",
-    "main.1f2c6abe.js.map": "/OQGN-LSR/static/js/main.1f2c6abe.js.map",
+    "main.8e467457.js.map": "/OQGN-LSR/static/js/main.8e467457.js.map",
     "453.ceb1571c.chunk.js.map": "/OQGN-LSR/static/js/453.ceb1571c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.312fb1d0.css",
-    "static/js/main.1f2c6abe.js"
+    "static/js/main.8e467457.js"
   ]
 }

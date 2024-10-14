@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OQGN-Life-Saving-Rules/static/css/main.4156f40d.css",
-    "main.js": "/OQGN-Life-Saving-Rules/static/js/main.45286686.js",
+    "main.js": "/OQGN-Life-Saving-Rules/static/js/main.d5fa688e.js",
     "static/js/453.ceb1571c.chunk.js": "/OQGN-Life-Saving-Rules/static/js/453.ceb1571c.chunk.js",
     "static/media/CorrectAnswer.webp": "/OQGN-Life-Saving-Rules/static/media/CorrectAnswer.6111eaba3ac227ab8f40.webp",
     "static/media/Background.webp": "/OQGN-Life-Saving-Rules/static/media/Background.ed4618de208eb9cbce1d.webp",
@@ -17,11 +17,11 @@
     "static/media/IncorrectAnswerD.webp": "/OQGN-Life-Saving-Rules/static/media/IncorrectAnswerD.0be5790cebbdc04a47cf.webp",
     "index.html": "/OQGN-Life-Saving-Rules/index.html",
     "main.4156f40d.css.map": "/OQGN-Life-Saving-Rules/static/css/main.4156f40d.css.map",
-    "main.45286686.js.map": "/OQGN-Life-Saving-Rules/static/js/main.45286686.js.map",
+    "main.d5fa688e.js.map": "/OQGN-Life-Saving-Rules/static/js/main.d5fa688e.js.map",
     "453.ceb1571c.chunk.js.map": "/OQGN-Life-Saving-Rules/static/js/453.ceb1571c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4156f40d.css",
-    "static/js/main.45286686.js"
+    "static/js/main.d5fa688e.js"
   ]
 }

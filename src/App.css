@@ -13,7 +13,7 @@ body {
 
 .start-screen {
   position: relative;
-  background-image: url('../src/assets/Intro/Background.webp');
+  background-image: url('../src/assets/Intro/NewBGIntro.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -36,7 +36,8 @@ body {
 .annual-hse {
   position: absolute;
   top: 40%;
-  left: 15%;
+  left: 50%; 
+  transform: translateX(-50%); 
   z-index: 10;
   height: auto;
   width: 200px;

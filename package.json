@@ -1,5 +1,5 @@
 {
-  "name": "oqgn-quiz-game2",
+  "name": "oqgn-life-saving-rules",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,6 +44,6 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
- "homepage": "https://wasimakram516.github.io/QuizGame2"
+ "homepage": "https://wasimakram516.github.io/OQGN-Life-Saving-Rules"
 
 }

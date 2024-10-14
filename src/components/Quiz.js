@@ -16,9 +16,8 @@ const wrongAnswerImages = {
   D: wrongImageD,
 };
 
-function Quiz({ endGame, incrementScore, quizData, restartGame }) {
+function Quiz({ endGame, incrementScore, quizData, currentQuestionIndex, restartGame }) {
   const theme = useTheme();
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [feedback, setFeedback] = useState(null); // 'correct' or 'wrong'
   const [feedbackImage, setFeedbackImage] = useState(null); // Feedback image for the modal
   const [imageLoading, setImageLoading] = useState(false); // Image loading state
@@ -60,14 +59,9 @@ function Quiz({ endGame, incrementScore, quizData, restartGame }) {
   };
 
   const handleNextQuestion = () => {
-    setFeedback(null); // Reset feedback for next question
-    setFeedbackImage(null); // Reset feedback image
-    const nextIndex = currentQuestionIndex + 1;
-    if (nextIndex < quizData.length) {
-      setCurrentQuestionIndex(nextIndex); // Move to the next question
-    } else {
-      endGame(); // End the game if it's the last question
-    }
+    setFeedback(null);
+    setFeedbackImage(null);
+    endGame(); // Return to the question selection screen
   };
 
   return (

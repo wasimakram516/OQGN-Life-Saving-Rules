@@ -32,7 +32,6 @@ function QuestionSelectionScreen({ quizData, selectQuestion }) {
           variant="h4" 
           gutterBottom 
           sx={{ 
-            color: '#1976D2', // Blue color
             fontWeight: 'bold',
             marginBottom: '20px',
             textAlign: 'center',

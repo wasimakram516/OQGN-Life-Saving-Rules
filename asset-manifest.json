@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/QuizGame2/static/css/main.f9fef080.css",
-    "main.js": "/QuizGame2/static/js/main.88f4a52a.js",
-    "static/js/453.fd0d92bd.chunk.js": "/QuizGame2/static/js/453.fd0d92bd.chunk.js",
-    "static/media/CorrectAnswer.webp": "/QuizGame2/static/media/CorrectAnswer.6111eaba3ac227ab8f40.webp",
-    "static/media/Background.webp": "/QuizGame2/static/media/Background.22294ccc7b86b18526d5.webp",
-    "static/media/START.webp": "/QuizGame2/static/media/START.3d836f19638ec0d5bdfc.webp",
-    "static/media/OQGNLogo.webp": "/QuizGame2/static/media/OQGNLogo.6e9457e66e87a9f7a8c5.webp",
-    "static/media/NewBG.webp": "/QuizGame2/static/media/NewBG.4eb02f7c3466990c264f.webp",
-    "static/media/InteractiveQuiz.webp": "/QuizGame2/static/media/InteractiveQuiz.6576a091558072b5e2cf.webp",
-    "static/media/AnnualHSE.webp": "/QuizGame2/static/media/AnnualHSE.0a3b74bcb89893c18af8.webp",
-    "static/media/IncorrectAnswerB.webp": "/QuizGame2/static/media/IncorrectAnswerB.e219bc359439ab9c6ed7.webp",
-    "static/media/IncorrectAnswerC.webp": "/QuizGame2/static/media/IncorrectAnswerC.4158525b425bc8206122.webp",
-    "static/media/IncorrectAnswerA.webp": "/QuizGame2/static/media/IncorrectAnswerA.14a77b6c9991dae9a4a7.webp",
-    "static/media/IncorrectAnswerD.webp": "/QuizGame2/static/media/IncorrectAnswerD.0be5790cebbdc04a47cf.webp",
-    "index.html": "/QuizGame2/index.html",
-    "main.f9fef080.css.map": "/QuizGame2/static/css/main.f9fef080.css.map",
-    "main.88f4a52a.js.map": "/QuizGame2/static/js/main.88f4a52a.js.map",
-    "453.fd0d92bd.chunk.js.map": "/QuizGame2/static/js/453.fd0d92bd.chunk.js.map"
+    "main.css": "/OQGN-Life-Saving-Rules/static/css/main.4156f40d.css",
+    "main.js": "/OQGN-Life-Saving-Rules/static/js/main.32281fb4.js",
+    "static/js/453.ceb1571c.chunk.js": "/OQGN-Life-Saving-Rules/static/js/453.ceb1571c.chunk.js",
+    "static/media/CorrectAnswer.webp": "/OQGN-Life-Saving-Rules/static/media/CorrectAnswer.6111eaba3ac227ab8f40.webp",
+    "static/media/Background.webp": "/OQGN-Life-Saving-Rules/static/media/Background.ed4618de208eb9cbce1d.webp",
+    "static/media/START.webp": "/OQGN-Life-Saving-Rules/static/media/START.3d836f19638ec0d5bdfc.webp",
+    "static/media/OQGNLogo.webp": "/OQGN-Life-Saving-Rules/static/media/OQGNLogo.6e9457e66e87a9f7a8c5.webp",
+    "static/media/NewBG.webp": "/OQGN-Life-Saving-Rules/static/media/NewBG.4eb02f7c3466990c264f.webp",
+    "static/media/InteractiveQuiz.webp": "/OQGN-Life-Saving-Rules/static/media/InteractiveQuiz.6576a091558072b5e2cf.webp",
+    "static/media/AnnualHSE.webp": "/OQGN-Life-Saving-Rules/static/media/AnnualHSE.0a3b74bcb89893c18af8.webp",
+    "static/media/NewBGIntro.webp": "/OQGN-Life-Saving-Rules/static/media/NewBGIntro.f321caabc7d94ac1a694.webp",
+    "static/media/IncorrectAnswerB.webp": "/OQGN-Life-Saving-Rules/static/media/IncorrectAnswerB.e219bc359439ab9c6ed7.webp",
+    "static/media/IncorrectAnswerC.webp": "/OQGN-Life-Saving-Rules/static/media/IncorrectAnswerC.4158525b425bc8206122.webp",
+    "static/media/IncorrectAnswerA.webp": "/OQGN-Life-Saving-Rules/static/media/IncorrectAnswerA.14a77b6c9991dae9a4a7.webp",
+    "static/media/IncorrectAnswerD.webp": "/OQGN-Life-Saving-Rules/static/media/IncorrectAnswerD.0be5790cebbdc04a47cf.webp",
+    "index.html": "/OQGN-Life-Saving-Rules/index.html",
+    "main.4156f40d.css.map": "/OQGN-Life-Saving-Rules/static/css/main.4156f40d.css.map",
+    "main.32281fb4.js.map": "/OQGN-Life-Saving-Rules/static/js/main.32281fb4.js.map",
+    "453.ceb1571c.chunk.js.map": "/OQGN-Life-Saving-Rules/static/js/453.ceb1571c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9fef080.css",
-    "static/js/main.88f4a52a.js"
+    "static/css/main.4156f40d.css",
+    "static/js/main.32281fb4.js"
   ]
 }

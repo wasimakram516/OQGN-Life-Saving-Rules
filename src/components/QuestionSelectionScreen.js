@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box, Button, Typography, Grid, Paper } from '@mui/material';
-import BackgroundImage from '../assets/Section/Background.webp'; // Import the image
-
+import BackgroundImage from '../assets/Section/Background.webp'; 
 function QuestionSelectionScreen({ quizData, selectQuestion }) {
   return (
     <Box
@@ -11,7 +10,7 @@ function QuestionSelectionScreen({ quizData, selectQuestion }) {
         alignItems: 'center',
         justifyContent: 'start',
         minHeight: '100vh',
-        backgroundImage: `url(${BackgroundImage})`, // Use the imported image
+        backgroundImage: `url(${BackgroundImage})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -59,6 +58,8 @@ function QuestionSelectionScreen({ quizData, selectQuestion }) {
                   borderRadius: '8px',
                   justifyContent: 'flex-start', // Align text to the left
                   paddingLeft: '20px', // Add padding to give space on the left
+                  whiteSpace: 'normal', // Allow multiline text
+                  textAlign: 'left', // Ensure text alignment to the left
                   '&:hover': {
                     backgroundColor: 'primary.light', // Hover effect
                   },
